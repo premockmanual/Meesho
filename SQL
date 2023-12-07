@@ -1,2 +1,3 @@
 SQL-Structure query language
 CRUD operation
+RDMS:Relatol database managment system - Shivam
