@@ -7,3 +7,4 @@ Delete ---- Delete the database           Bhushan Pol
 To communicate with RDBMS we used SQL- 
 E R model Entity relational model which explain the typical model of table design - Anshul 
 sql is used by rdbms. omkar jadhav
+creating database- abhishek
