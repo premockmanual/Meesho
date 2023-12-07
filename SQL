@@ -1,1 +1,2 @@
 SQL-Structure query language
+CRUD operation
