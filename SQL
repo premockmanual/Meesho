@@ -4,3 +4,4 @@ Create ---- Create a database
 Read ----- Read(select)
 Update ---- Update the data base
 Delete ---- Delete the database           Bhushan Pol
+To communicate with RDBMS we used SQL- PRAJYOT
